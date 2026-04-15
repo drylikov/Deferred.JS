@@ -6,7 +6,7 @@ you may store and resolve it later. This is a useful capability when working wit
 ## Installation
 
 ```
-$ npm install tj/deferred.js
+$ npm install drylikov/deferred.js
 ```
 
 
