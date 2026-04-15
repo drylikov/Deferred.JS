@@ -9,4 +9,3 @@ you may store and resolve it later. This is a useful capability when working wit
 $ npm install drylikov/deferred.js
 ```
 
-
